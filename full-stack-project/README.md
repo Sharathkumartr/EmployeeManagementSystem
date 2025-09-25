@@ -4,23 +4,7 @@
 
 A full-stack CRUD (Create, Read, Update, Delete) application built using **ReactJS** for the frontend and **Spring Boot** for the backend. This project demonstrates how to create a responsive, user-friendly interface for managing employee records and performing CRUD operations with a MySQL database.
 
----
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Usage](#usage)
-- [Learning Outcomes](#learning-outcomes)
-- [Resources](#resources)
-- [License](#license)
-
----
 
 ## Project Overview
 
@@ -46,7 +30,5 @@ This project is a complete example of a full-stack application using ReactJS and
 - **Database:** MySQL
 - **Build Tools:** Maven, Node.js, npm
 
----
 
-## Project Structure
 
